@@ -14,7 +14,7 @@ This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript. I
 - Responsive design for desktop and mobile devices.
 - Simple and intuitive user interface.
 - Turn indicator to show whose turn it is.
-- New game button to start a new game at any time.
+- Play Again button to start a new game at any time.
 - Win detection to declare a winner or a tie.
 - A lot of color animation.
 
@@ -23,7 +23,7 @@ This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript. I
 2. Player X starts the game by clicking on an empty square.
 3. Player O takes their turn by clicking on another empty square.
 4. Players continue taking turns until one of them wins or the game ends in a tie.
-5. Click the "New game" button to start a new game.
+5. Click the "Play Again" button to start a new game.
 
 ## Technologies Used
 - HTML5
