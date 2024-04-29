@@ -1,7 +1,7 @@
 # Tic Tac Toe Game
 
 ## Overview
-This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript. It allows two players to take turns marking spaces on a 3x3 grid, aiming to get three of their symbols in a row, column, or diagonal.
+Hey there. I am Ashraful Alam. I am from Bangladesh. I am a passionate software developer. This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript. It allows two players to take turns marking spaces on a 3x3 grid, aiming to get three of their symbols in a row, column, or diagonal. See this project and tell me if I can improve something or it is good. 
 
 ## Credits
 - **Ashraful Alam** - Software Developer
