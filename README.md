@@ -18,6 +18,11 @@ Hey there. I am Ashraful Alam. I am from Bangladesh. I am a passionate software 
 - Win detection to declare a winner or a tie.
 - A lot of color animation.
 
+## Upcoming Feature
+- I am working on to make it into two options.
+- First will be play against computer.
+- And the second the the existing multiplayer. 
+
 ## How to Play
 1. Open the `index.html` file in your web browser.
 2. Player X starts the game by clicking on an empty square.
