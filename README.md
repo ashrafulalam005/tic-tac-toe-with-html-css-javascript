@@ -52,6 +52,9 @@ Hey there. I am Ashraful Alam. I am from Bangladesh. I am a passionate software 
 <br> 
 
 ## Before Starting
+
+<br> 
+
 <img src="https://github.com/ashrafulalam005/tic-tac-toe-with-html/blob/main/Screenshots/Screenshot%202024-04-27%20152513.png" alt="Screenshot 1" height="500" width="400">
 
 <br> <br> 
