@@ -15,7 +15,8 @@ Hey there. I am Ashraful Alam. I am from Bangladesh. I am a passionate software 
 
   
 ## Features
-<br> 
+<br>
+
 - Classic Tic Tac Toe gameplay.
 - Responsive design for desktop and mobile devices.
 - Simple and intuitive user interface.
@@ -26,12 +27,14 @@ Hey there. I am Ashraful Alam. I am from Bangladesh. I am a passionate software 
 
 ## Upcoming Feature
 <br> 
+
 - I am working on to make it into two options.
 - First will be play against computer.
 - And the second the the existing multiplayer. 
 
 ## How to Play
 <br> 
+
 1. Open the `index.html` file in your web browser.
 2. Player X starts the game by clicking on an empty square.
 3. Player O takes their turn by clicking on another empty square.
@@ -40,6 +43,7 @@ Hey there. I am Ashraful Alam. I am from Bangladesh. I am a passionate software 
 
 ## Technologies Used
 <br> 
+
 - HTML5
 - CSS3
 - JavaScript
