@@ -48,7 +48,7 @@ Hey there. I am Ashraful Alam. I am from Bangladesh. I am a passionate software 
 - CSS3
 - JavaScript
 
-## Screenshots
+## Screenshots of the game
 <br> 
 
 ## Before Starting
