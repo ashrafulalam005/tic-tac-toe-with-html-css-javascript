@@ -28,9 +28,9 @@ Hey there. I am Ashraful Alam. I am from Bangladesh. I am a passionate software 
 ## Upcoming Feature
 <br> 
 
-- I am working on to make it into two options.
-- First will be play against computer.
-- And the second the the existing multiplayer. 
+- I am working on it so that it can be played in two ways.
+- Firstly player can against computer.
+- Secondly the the existing multiplayer game. 
 
 ## How to Play
 <br> 
