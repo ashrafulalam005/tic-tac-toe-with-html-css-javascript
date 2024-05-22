@@ -44,9 +44,10 @@ Hey there. I am Ashraful Alam. I am from Bangladesh. I am a passionate software 
 ## Technologies Used
 <br> 
 
-- HTML5
-- CSS3
-- JavaScript
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+
 
 ## Screenshots of the game
 <br> 
