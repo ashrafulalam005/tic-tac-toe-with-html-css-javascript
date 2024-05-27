@@ -6,13 +6,18 @@
 
 ## Overview
 <br> 
-Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passionate software developer. This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript. It allows two players to take turns marking spaces on a 3x3 grid, aiming to get three of their symbols in a row, column, or diagonal. See this project and tell me if I can improve something or it is good. 
 
-## Credits
+Hey there. I am **Ashraful Alam**. I am from Chittagong, Bangladesh. I am a passionate software developer. This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript. It allows two players to take turns marking spaces on a 3x3 grid, aiming to get three of their symbols in a row, column, or diagonal. See this project and tell me if I can improve something or it is good. 
+
+# Credits
 <br> 
 
-**Ashraful Alam** - Software Developer
-- International Islamic University Chittagong (IIUC)
+# Ashraful Alam
+- **Studying B.Sc. in Computer Science and Engineering**
+- **Institution: International Islamic University Chittagong (IIUC)**
+- **Time : July, 2023 - Prestent**
+
+<br>
 
 
   
