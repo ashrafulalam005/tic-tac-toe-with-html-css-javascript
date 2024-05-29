@@ -47,6 +47,7 @@ Hey there. I am **Ashraful Alam**. I am from **Chittagong, Bangladesh**. I am a 
 3. Player O takes their turn by clicking on another empty square.
 4. Players continue taking turns until one of them wins or the game ends in a tie.
 5. Click the "Play Again" button to start a new game.
+<br>
 
 # Technologies Used
 <br> 
