@@ -35,9 +35,10 @@
 # Upcoming Feature
 <br> 
 
-- I am working on it so that it can be played in two ways.
-- Firstly player can against computer.
-- Secondly the the existing multiplayer game. 
+***- I am working on it so that it can be played in two ways.***  
+***- Firstly player can against computer.***  
+***- Secondly the the existing multiplayer game.***  
+
 <br>
 
 # How to Play
