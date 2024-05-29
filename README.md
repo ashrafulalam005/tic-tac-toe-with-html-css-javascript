@@ -32,7 +32,7 @@ Hey there. I am **Ashraful Alam**. I am from **Chittagong, Bangladesh**. I am a 
 - Win detection to declare a winner or a tie.
 - A lot of color animation.
 
-## Upcoming Feature
+# Upcoming Feature
 <br> 
 
 - I am working on it so that it can be played in two ways.
