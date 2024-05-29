@@ -44,11 +44,12 @@
 # How to Play
 <br> 
 
-1. Open the `index.html` file in your web browser.
-2. Player X starts the game by clicking on an empty square.
-3. Player O takes their turn by clicking on another empty square.
-4. Players continue taking turns until one of them wins or the game ends in a tie.
-5. Click the "Play Again" button to start a new game.
+***1. Open the `index.html` file in your web browser.***  
+***2. Player X starts the game by clicking on an empty square.***  
+***3. Player O takes their turn by clicking on another empty square.***  
+***4. Players continue taking turns until one of them wins or the game ends in a tie.***  
+***5. Click the "Play Again" button to start a new game.***  
+
 <br>
 
 # Technologies Used
