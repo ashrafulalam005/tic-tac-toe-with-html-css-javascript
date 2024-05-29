@@ -22,13 +22,14 @@
 # Features
 <br>
 
-- Classic Tic Tac Toe gameplay.
-- Responsive design for desktop and mobile devices.
-- Simple and intuitive user interface.
-- Turn indicator to show whose turn it is.
-- Play Again button to start a new game at any time.
-- Win detection to declare a winner or a tie.
-- A lot of color animation.
+***- Classic Tic Tac Toe gameplay.***  
+***- Responsive design for desktop and mobile devices.***  
+***- Simple and intuitive user interface.***  
+***- Turn indicator to show whose turn it is.***  
+***- Play Again button to start a new game at any time.***  
+***- Win detection to declare a winner or a tie.***  
+***- A lot of color animation.***  
+
 <br>
 
 # Upcoming Feature
