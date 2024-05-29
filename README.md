@@ -55,7 +55,7 @@ Hey there. I am **Ashraful Alam**. I am from **Chittagong, Bangladesh**. I am a 
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-
+<br>
 
 # Screenshots of the game
 <br> 
