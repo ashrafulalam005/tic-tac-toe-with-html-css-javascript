@@ -21,7 +21,7 @@ Hey there. I am **Ashraful Alam**. I am from **Chittagong, Bangladesh**. I am a 
 
 
   
-## Features
+# Features
 <br>
 
 - Classic Tic Tac Toe gameplay.
