@@ -39,7 +39,7 @@ Hey there. I am **Ashraful Alam**. I am from **Chittagong, Bangladesh**. I am a 
 - Firstly player can against computer.
 - Secondly the the existing multiplayer game. 
 
-## How to Play
+# How to Play
 <br> 
 
 1. Open the `index.html` file in your web browser.
