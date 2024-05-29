@@ -28,6 +28,7 @@ Hey there. I am **Ashraful Alam**. I am from **Chittagong, Bangladesh**. I am a 
 - Play Again button to start a new game at any time.
 - Win detection to declare a winner or a tie.
 - A lot of color animation.
+<br>
 
 # Upcoming Feature
 <br> 
