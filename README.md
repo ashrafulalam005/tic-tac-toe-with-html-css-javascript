@@ -1,4 +1,4 @@
-<br>  <br>                  
+<br> <br>                  
 
 # Tic Tac Toe Game with html, css and javascript
 
