@@ -85,4 +85,3 @@
 <img src="https://github.com/ashrafulalam005/tic-tac-toe-with-html/blob/main/Screenshots/Screenshot%202024-04-27%20152645.png" alt="Screenshot 3" height="500" width="400">
 
 <br> <br> 
-
