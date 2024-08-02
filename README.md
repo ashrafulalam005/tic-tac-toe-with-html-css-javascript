@@ -28,6 +28,7 @@
 ***- Simple and intuitive user interface.***  
 ***- Turn indicator to show whose turn it is.***  
 ***- Play Again button to start a new game at any time.***  
+***- If we refresh the game will be reset.***
 ***- Win detection to declare a winner or a tie.***  
 ***- A lot of color animation.***  
 
