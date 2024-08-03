@@ -1,4 +1,5 @@
-<br> <br> 
+
+<br> <br> <br> 
 
 # Tic Tac Toe Game with html, css and javascript
 
@@ -27,6 +28,7 @@
 ***- Simple and intuitive user interface.***  
 ***- Turn indicator to show whose turn it is.***  
 ***- Play Again button to start a new game at any time.***  
+***- If we refresh the game will be reset.***
 ***- Win detection to declare a winner or a tie.***  
 ***- A lot of color animation.***  
 
@@ -85,3 +87,4 @@
 <img src="https://github.com/ashrafulalam005/tic-tac-toe-with-html/blob/main/Screenshots/Screenshot%202024-04-27%20152645.png" alt="Screenshot 3" height="500" width="400">
 
 <br> <br> 
+
