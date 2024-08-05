@@ -1,26 +1,24 @@
 <br> <br> <br> 
 
-
 # Tic Tac Toe Game with html, css and javascript
 
 <br> 
 
-# Overview
+# Overview 🔍 
 <br> 
 
 ***Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passionate software developer. This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript. It allows two players to take turns marking spaces on a 3x3 grid, aiming to get three of their symbols in a row, column, or diagonal. See this project and tell me if I can improve something or it is good.*** <br> <br> 
 
-# Credits
-<br>
+# Credits 🙌
 
-# Ashraful Alam
+# Developer : Ashraful Alam
 ***- Studying B.Sc. in Computer Science and Engineering***  
 ***- Institution: International Islamic University Chittagong (IIUC)***  
 ***- Time : July, 2023 - Prestent***
 
 <br> 
 
-# Features
+# Features ✨ 
 <br>
 
 ***- Classic Tic Tac Toe gameplay.***  
@@ -34,7 +32,7 @@
 
 <br>
 
-# Upcoming Feature
+# Upcoming Feature 🚀
 <br> 
 
 ***- I am working on it so that it can be played in two ways.***  
@@ -43,7 +41,7 @@
 
 <br>
 
-# How to Play
+# How to Play 🎮 
 <br> 
 
 ***1. Open the `index.html` file in your web browser.***  
@@ -54,7 +52,7 @@
 
 <br>
 
-# Technologies Used
+# Technologies Used 💻
 <br> 
 
 ***- HTML5***  
@@ -63,7 +61,7 @@
 
 <br>
 
-# Installation and Setup
+# Installation and Setup 🛠️
 <br>
 
 1. **Clone the repository to your local machine :**
@@ -79,7 +77,7 @@
    https://ashrafulalam005.github.io/tic-tac-toe-with-html-css-javascript/
 <br> 
 
-# Screenshots of the game
+# Screenshots of the game 🖼️
 <br> 
 
 ## Before Starting
