@@ -1,4 +1,3 @@
-
 <br> <br> <br> 
 
 
@@ -67,7 +66,7 @@
 # Installation and Setup
 <br>
 
-1. **Clone the repository to your local machine:**
+1. **Clone the repository to your local machine :**
    ```bash
    git clone https://github.com/ashrafulalam005/tic-tac-toe-with-html-css-javascript.git
 <br>
