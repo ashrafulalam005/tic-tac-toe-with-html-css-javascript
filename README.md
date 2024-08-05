@@ -69,13 +69,16 @@
 
 1. **Clone the repository to your local machine:**
    ```bash
-   git clone https://ashrafulalam005.github.io/tic-tac-toe-with-html-css-javascript/
-<br> 
+   git clone https://github.com/ashrafulalam005/tic-tac-toe-with-html-css-javascript.git
+<br>
 
-2. **Visit the link to play online:**
+# Or
+
+<br>
+
+2. **Visit the link to play online :**
    https://ashrafulalam005.github.io/tic-tac-toe-with-html-css-javascript/
 <br> 
-
 
 # Screenshots of the game
 <br> 
