@@ -52,7 +52,7 @@
 
 <br>
 
-# Technologies Used 💻
+# Programming Languages Used 💻
 <br> 
 
 ***- HTML5***  
