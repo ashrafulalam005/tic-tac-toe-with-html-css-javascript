@@ -77,7 +77,7 @@
    https://ashrafulalam005.github.io/tic-tac-toe-with-html-css-javascript/
 <br> 
 
-# Screenshots of the game 🖼️
+# Screenshots of the gameplay 🖼️
 <br> 
 
 ## Before Starting
