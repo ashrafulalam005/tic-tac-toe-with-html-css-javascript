@@ -32,7 +32,7 @@
 
 <br>
 
-# Upcoming Feature 🚀
+# Upcoming Features 🚀
 <br> 
 
 ***- I am working on it so that it can be played in two ways.***  
