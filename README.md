@@ -1,6 +1,6 @@
 <br> <br> <br> 
 
-# Tic Tac Toe Game with html, css and javascript
+# Tic Tac Toe Game with HTML, CSS, and JavaScript
 
 <br> 
 
