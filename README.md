@@ -104,3 +104,13 @@
 
 <br> <br> 
 
+
+
+# Important Note :
+
+## I worked on Android Studio. And you might see little color changes in that app. I mean if you play online you might see different color from the color if you play with the apk file. However it doesnt affect too much. Hope you enjoy the game. 
+
+
+
+
+
