@@ -86,29 +86,37 @@
 
 <br> 
 
-<img src="https://github.com/ashrafulalam005/tic-tac-toe-with-html/blob/main/Screenshots/Screenshot%202024-04-27%20152513.png" alt="Screenshot 1" height="500" width="400">
+<img src="https://github.com/ashrafulalam005/tic-tac-toe-with-html-css-javascript/blob/main/necessary%20img/before-starting.png" alt="Screenshot 1" height="500" width="260">
 
 <br> <br> 
-## Winning Declaration
+## Turn Indicator change
+
+<br> 
+
+<img src="https://github.com/ashrafulalam005/tic-tac-toe-with-html-css-javascript/blob/main/necessary%20img/turn-button-change.png" alt="Screenshot 1" height="500" width="260">
+
+<br> <br> 
+## Winning of X
+
+<br> 
+
+<img src="https://github.com/ashrafulalam005/tic-tac-toe-with-html-css-javascript/blob/main/necessary%20img/x-win.png" alt="Screenshot 1" height="500" width="260">
+
+<br> <br> 
+## Winning of O
 
 <br>
 
-<img src="https://github.com/ashrafulalam005/tic-tac-toe-with-html/blob/main/Screenshots/Screenshot%202024-04-27%20152536.png" alt="Screenshot 2" height="500" width="400">
+<img src="https://github.com/ashrafulalam005/tic-tac-toe-with-html-css-javascript/blob/main/necessary%20img/o-win.png" alt="Screenshot 2" height="500" width="260">
 
 <br> <br> 
 ## Draw Declaration
 
 <br> 
 
-<img src="https://github.com/ashrafulalam005/tic-tac-toe-with-html/blob/main/Screenshots/Screenshot%202024-04-27%20152645.png" alt="Screenshot 3" height="500" width="400">
+<img src="https://github.com/ashrafulalam005/tic-tac-toe-with-html-css-javascript/blob/main/necessary%20img/draw.png" alt="Screenshot 3" height="500" width="260">
 
 <br> <br> 
-
-
-
-# Important Note :
-
-## I worked on Android Studio. And you might see little color changes in that app. I mean if you play online you might see different color from the color if you play with the apk file. However it doesnt affect too much. Hope you enjoy the game. 
 
 
 
