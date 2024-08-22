@@ -45,7 +45,7 @@
 # How to Play 🎮 
 <br> 
 
-## If you cloned my repository and playing from live server :
+## If you have cloned my repository and playing from live server :
 
 ***1. Open the `index.html` file in your web browser.***  
 ***2. Player X starts the game by clicking on an empty square.***  
