@@ -25,14 +25,14 @@ body {
 .turn-container {
   width: 170px;
   height: 80px;
-  margin: auto;
+  margin: 60px auto;
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr;
   position: relative;
 }
 
-.turn-container h3 {
+.turn-container h1 {
   margin: 0;
   grid-column-start: 1;
   grid-column-end: 3;
@@ -54,7 +54,7 @@ body {
   left: 0;
   width: 85px;
   height: 40px;
-  background-color: #ff2e63;
+  background-color: #9c27b0;
   z-index: -1;
 }
 
@@ -62,17 +62,18 @@ body {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(3, 1fr);
-  height: 250px;
-  width: 250px;
-  margin: 30px auto;
-  border: 2px solid #000;
+  height: 300px;
+  width: 300px;
+  margin: 90px auto;
+  background-color: #000080;
+  border: 3px solid #ffffff;
 }
 
 .box {
   cursor: pointer;
   font-size: 2rem;
   font-weight: 700;
-  border: 2px solid #000;
+  border: 3px solid #ffffff;
 }
 
 .box:hover {
@@ -83,10 +84,11 @@ body {
   background-color: #ff2e63;
   padding: 10px 25px;
   border: none;
-  font-size: 1.2rem;
+  font-size: 1.8rem;
   border-radius: 5px;
   cursor: pointer;
   display: none;
+  margin-top: 30px;
 }
 
 #play-again:hover {
@@ -94,5 +96,3 @@ body {
   background-color: #08d9d6;
   color: #000;
 }
-
-
