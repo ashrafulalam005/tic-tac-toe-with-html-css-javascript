@@ -7,7 +7,8 @@
 # Overview 🔍 
 <br> 
 
-***Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passionate software developer. This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript. It allows two players to take turns marking spaces on a 3x3 grid, aiming to get three of their symbols in a row, column, or diagonal. See this project and tell me if I can improve something or it is good.*** <br> <br> 
+***Hey there. I am Ashraful Alam. I am from Chittagong, Bangladesh. I am a passionate software developer. This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript. It allows two players to take turns marking spaces on a 3x3 grid, aiming to get three of their symbols in a row, column, or diagonal.  I also made an apk file for you to enjoy the game. I used kotlin for that. See this project and tell me if I need to improve anything.*** <br> <br> 
+
 
 # Credit 🙌
 
@@ -26,7 +27,7 @@
 ***- Simple and intuitive user interface.***  
 ***- Turn indicator to show whose turn it is.***  
 ***- Play Again button to start a new game at any time.***  
-***- If we refresh the game will be reset.***
+***- If we refresh the game will be reset.***  
 ***- Win detection to declare a winner or a tie.***  
 ***- A lot of color animation.***  
 
@@ -44,12 +45,17 @@
 # How to Play 🎮 
 <br> 
 
+## If you clone my repository and playing from live server :
+
 ***1. Open the `index.html` file in your web browser.***  
 ***2. Player X starts the game by clicking on an empty square.***  
 ***3. Player O takes their turn by clicking on another empty square.***  
 ***4. Players continue taking turns until one of them wins or the game ends in a tie.***  
 ***5. Click the "Play Again" button to start a new game.***  
 
+<br> 
+
+## You can also play the game by downloading the apk to play offline or by clicking the link to play online. Its below 👇 at the installation and setup part.
 <br>
 
 # Programming Languages Used 💻
@@ -58,6 +64,7 @@
 ***- HTML5***  
 ***- CSS3***  
 ***- JavaScript***  
+***- Kotlin***  
 
 <br>
 
