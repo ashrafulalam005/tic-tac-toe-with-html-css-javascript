@@ -66,7 +66,7 @@
 
 # 1. Download the APK file to play offline:
 
-## [Download APK](https://github.com/ashrafulalam005/tic-tac-toe-with-html-css-javascript/blob/main/app-release.apk)
+## [Download APK](https://github.com/ashrafulalam005/tic-tac-toe-with-html-css-javascript/blob/main/TicTacToe.apk)
 
 <br> 
 
